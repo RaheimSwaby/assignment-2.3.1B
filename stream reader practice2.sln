@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stream reader practice2", "stream reader practice2\stream reader practice2.csproj", "{38BDDBD9-7A90-46E0-9161-55BA46702421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BDDBD9-7A90-46E0-9161-55BA46702421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BDDBD9-7A90-46E0-9161-55BA46702421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BDDBD9-7A90-46E0-9161-55BA46702421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BDDBD9-7A90-46E0-9161-55BA46702421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10738B4F-0EFE-401C-8259-87252A9894CE}
+	EndGlobalSection
+EndGlobal
